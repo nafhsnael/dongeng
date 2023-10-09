@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dongeng Bawang Merah Dan Bawang Putih</title>
+    <style>
+.header{padding: 30px;
+        text-align: center;
+        background: #BEADFA;}
+
+.header h1{font-size: 50px;}
+
+.topnav{overflow: hidden;
+        background-color: #FDE5EC}
+
+.topnav a{float: left;
+          display: block;
+          color: black;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;}
+
+.tonav a:hover{background-color: #ddd;
+               color: black;}
+
+.column{width: 75%;}
+
+.leftcolumn{float: left;
+            width: 75%;}
+
+.rightcolumn{float: left;    
+             width: 25%;
+             background-color: #DFCCFB;
+             padding-left: 20px;}
+
+.card{background-color: write;
+      padding: 20px;
+      margin-top: 20px;
+      font-size: 45px;}
+
+.row:after {content: "";
+            display: table;
+            clear: both;}
+
+.footer {padding: 20px;
+         text-align: center;
+         background:#BEADFA;
+         margin-top: 20px;}
+
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+    <div class="header">
+        <h1>Dongeng</h1>
+    </div>
+        <div class="topnav">
+            <a href="home.html" class="active">Home</a>
+            <a href="sinopsis.html">Sinopsis</a>
+            <a href="dongeng.html">Dongeng</a>
+            <a href="tokoh.html">Tokoh</a>
+            </div>
+            <center><div class="title">
+                <br><h1>Bawang Putih Dan Bawang merah</h1><br></div>
+                <img src="bwmerah.jpeg" alt="bawang putih" width="764" height="430"><br>
+                <p>Alkisah, pada dahulu kala di sebuah desa yang asri, hiduplah sepasang ayah dan anak perempuannya. Anak perempuan itu bernama Bawang Putih. Dia tidak hanya memiliki paras yang cantik, tetapi juga hati dan sikap yang sangat baik.
+                    Ilustrasi Bawang Putih dalam Cerita Dongeng Pendek. 
+                    Kehidupan Bawang Putih mulai berubah ketika ayahnya memutuskan untuk menikahi seorang wanita yang telah memiliki anak bernama Bawang Merah. Seolah bertolak belakang dengan Bawang Putih, Bawang Merah merupakan anak perempuan yang tidak sopan, gampang marah, dan selalu bersikap jahat kepada Bawang Putih. Begitu pula, sang ibu tiri. Ia selalu bersikap pilih kasih dan lebih menyayangi Bawang Merah.
+                    Meskipun begitu, Bawang Putih tidak pernah membenci ibu dan saudara tirinya. Dia selalu bersikap baik dan mematuhi segala perintah mereka.
+                    Pada suatu hari, Bawang Putih menghadapi masalah besar karena ia menghayutkan salah satu baju milik ibu tirinya ketika mencuci pakaian di pinggir sungai. Bawang Putih menyusuri setiap sisi sungai untuk menemukan keberadaan baju ibu tirinya itu. 
+                    Bawang Putih takut, jika ia tidak menemukannya, ibu tirinya pasti akan sangat marah. Pencarian tersebut berakhir ketika Bawang Putih menemukan seorang wanita tua yang berhasil menyelamatkan baju itu sehingga tidak hanyut bersama arus sungai. Namun, wanita tua itu memberikan syarat kepada Bawang Putih agar membantu pekerjaannya.
+                    Dengan senang hati, Bawang Putih membantu seluruh pekerjaan wanita tua itu. Bawang Putih berterima kasih karena wanita tua telah menyelamatkan baju milik ibu tirinya. Sebelum pulang ke rumah, Bawang Putih ditawari labu oleh wanita tua itu. Bawang Putih diharuskan untuk memilih di antara labu berukuran besar dan labu berukuran kecil. Tidak perlu berpikir lama, Bawang Putih memilih labu berukuran kecil.
+                    Sesampainya di rumah, alangkah terkejutnya Bawang Putih saat membelah buah labu pemberian wanita tua. Ternyata, buah labu kecil itu berisikan emas dan perhiasan yang berkilau-kilau. Ibu tiri dan Bawang Merah ikut terkejut melihat Bawang Putih bisa mendapatkan labu berisi emas dan perhiasan. Mereka menyuruh Bawang Putih untuk menceritakan cara ia mendapatkan labu ajaib itu.
+                    Pada keesokan harinya, Bawang Merah melakukan hal yang persis sama dengan cerita dari Bawang Putih. Akan tetapi, ketika ditawarkan labu oleh wanita tua itu, Bawang Merah memilih labu berukuran besar.
+                    Ibu tiri menyambut dengan tidak kalah bahagia Bawang Merah yang telah sampai di rumah. Mereka berdua sangat bersemangat untuk mebelah buah labu itu. Namun, selanjutnya hal yang tidak terduga terjadi. Bukannya berisi emas dan perhiasan yang lebih banyak, labu berukuran besar yang dipilih oleh Bawang Merah ternyata berisikan ular-ular berbisa.
+                    Ibu tiri dan Bawang Merah berteriak ketakutan. Bawang Putih segera membantu mereka mengusir ular-ular berbisa itu. Setelah ular-ular berbisa itu pergi dari rumah mereka, Bawang Putih dengan tulus memberikan emas dan perhiasan yang ia temukan di dalam buah labu kecil.
+                    Atas kebaikan Bawang Putih serta kejadian buruk yang menimpa mereka, Ibu Tiri dan Bawang Merah meminta maaf kepada Bawang Putih. Keduanya akhirnya menyadari kesalahan mereka dan berjanji tidak akan bersikap jahat lagi kepada Bawang Putih.</p></center>
+            <br><div class="footer">
+            <h5>copyright @nafhs.nael</h5>
+            </div>
+</body>
+<head>
+<body>
+</body>
+</html>
